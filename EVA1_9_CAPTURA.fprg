@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_9_CAPTURA"/>
+        <attribute name="authors" value="Byron"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-02 05:31:48 p. m."/>
+        <attribute name="created" value="Qnlyb247REVTS1RPUC1OQlVRODAyOzIwMjUtMDktMDI7MDU6MjY6MjUgcC4gbS47MzA0MQ=="/>
+        <attribute name="edited" value="Qnlyb247REVTS1RPUC1OQlVRODAyOzIwMjUtMDktMDI7MDU6MzE6NDggcC4gbS47MTszMTUw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nombre" type="String" array="False" size=""/>
+            <output expression="&quot;Introduce tu nombre completo&quot;" newline="True"/>
+            <input variable="Nombre"/>
+            <output expression="&quot;El nombre capturado es: &quot;" newline="True"/>
+            <output expression="Nombre" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

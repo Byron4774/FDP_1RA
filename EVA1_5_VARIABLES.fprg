@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_5_VARIABLES"/>
+        <attribute name="authors" value="Byron"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 05:49:00 p. m."/>
+        <attribute name="created" value="Qnlyb247REVTS1RPUC1OQlVRODAyOzIwMjUtMDgtMjc7MDU6NDM6NDMgcC4gbS47MzA0Ng=="/>
+        <attribute name="edited" value="Qnlyb247REVTS1RPUC1OQlVRODAyOzIwMjUtMDgtMjc7MDU6NDk6MDAgcC4gbS47MjszMTU0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="edad" type="Integer" array="False" size=""/>
+            <declare name="nombre" type="String" array="False" size=""/>
+            <assign variable="edad" expression="17"/>
+            <assign variable="nombre" expression="&quot;Byron Matamoros&quot;"/>
+            <output expression="nombre" newline="True"/>
+            <output expression="edad" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

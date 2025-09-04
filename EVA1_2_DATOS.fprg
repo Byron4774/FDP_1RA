@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_PRACTICA2_DATOS"/>
+        <attribute name="authors" value="Byron"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:11:53 p. m."/>
+        <attribute name="created" value="Qnlyb247REVTS1RPUC1OQlVRODAyOzIwMjUtMDgtMjY7MDU6MDQ6MDggcC4gbS47MzA0Mw=="/>
+        <attribute name="edited" value="Qnlyb247REVTS1RPUC1OQlVRODAyOzIwMjUtMDgtMjY7MDU6MTE6NTMgcC4gbS47MjszMTUw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;BYRON MATAMOROS&quot;" newline="True"/>
+            <output expression="&quot;SALIDA 1000&quot;" newline="True"/>
+            <output expression="&quot;Salida 52.3&quot;" newline="True"/>
+            <output expression="&quot;Salida true&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
